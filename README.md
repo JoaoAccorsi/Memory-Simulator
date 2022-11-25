@@ -9,4 +9,4 @@ If there is no more empty space, an algorithm to find the less used page, and ta
 
 The class diagram is as below:
 
-![image](https://user-images.githubusercontent.com/60155867/203887767-bfa4f94e-d962-4889-af54-4f0057959f3d.png)
+![image](https://user-images.githubusercontent.com/60155867/203888004-9b4affda-a291-4fdf-bbff-70b1a8e9bec8.png)
