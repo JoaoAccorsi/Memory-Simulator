@@ -1,6 +1,6 @@
 # Memory-Simulator
 
-> Code developed for the Bachelors Degree in Computer Science:  
+> Code developed for the Bachelor's Degree in Computer Science:  
 > - University: Universidade do Vale do Rio dos Sinos (Unisinos)  
 > - Subject: Analysis and Application of Operating Systems  
 > - Semester: 2022/02  
