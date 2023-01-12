@@ -1,5 +1,11 @@
 # Memory-Simulator
 
+> Code developed for the Bachelors Degree in Computer Science:  
+> - University: Universidade do Vale do Rio dos Sinos (Unisinos)  
+> - Subject: Analysis and Application of Operating Systems  
+> - Semester: 2022/02  
+  
+  
 Java program to simulate the management of a memory in an operating system.
 
 The program create process, which are divided in pages, and allocate them in the Virtual Memory.
